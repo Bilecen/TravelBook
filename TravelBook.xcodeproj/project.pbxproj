@@ -14,6 +14,8 @@
 		88395A1B27298F1100CC835F /* TravelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 88395A1927298F1100CC835F /* TravelBook.xcdatamodeld */; };
 		88395A1D27298F1600CC835F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88395A1C27298F1600CC835F /* Assets.xcassets */; };
 		88395A2027298F1600CC835F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88395A1E27298F1600CC835F /* LaunchScreen.storyboard */; };
+		88395A282729B7BA00CC835F /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88395A272729B7BA00CC835F /* ListViewController.swift */; };
+		88395A2E2729E8C100CC835F /* CellRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88395A2D2729E8C100CC835F /* CellRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		88395A1C27298F1600CC835F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88395A1F27298F1600CC835F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88395A2127298F1600CC835F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88395A272729B7BA00CC835F /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		88395A2D2729E8C100CC835F /* CellRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				88395A1E27298F1600CC835F /* LaunchScreen.storyboard */,
 				88395A2127298F1600CC835F /* Info.plist */,
 				88395A1927298F1100CC835F /* TravelBook.xcdatamodeld */,
+				88395A272729B7BA00CC835F /* ListViewController.swift */,
+				88395A2D2729E8C100CC835F /* CellRow.swift */,
 			);
 			path = TravelBook;
 			sourceTree = "<group>";
@@ -144,6 +150,8 @@
 				88395A1B27298F1100CC835F /* TravelBook.xcdatamodeld in Sources */,
 				88395A1527298F1100CC835F /* ViewController.swift in Sources */,
 				88395A1127298F1100CC835F /* AppDelegate.swift in Sources */,
+				88395A282729B7BA00CC835F /* ListViewController.swift in Sources */,
+				88395A2E2729E8C100CC835F /* CellRow.swift in Sources */,
 				88395A1327298F1100CC835F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
